@@ -1,1 +1,1 @@
-# f1-book
+# f1-book [![Build Status](https://travis-ci.com/Maniollo/f1book.svg?branch=master)](https://travis-ci.com/Maniollo/f1book)
