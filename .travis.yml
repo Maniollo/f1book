@@ -1,4 +1,4 @@
 language: java
 install: skip
 jdk: oraclejdk11
-script: "./gradlew build --scan -s"
+script: "chmod +x ./gradlew build connectedCheck"
