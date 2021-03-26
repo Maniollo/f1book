@@ -3,4 +3,4 @@ install: skip
 jdk: oraclejdk11
 before_install:
   - chmod +x gradlew
-script: "./gradlew build --scan -s"
+script: "./gradlew build"
